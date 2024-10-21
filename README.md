@@ -1,5 +1,5 @@
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=526682619)
-
+hosted on : https://proud-pond-0b928121e.5.azurestaticapps.net/
 # JavaScript Portfolio Site with GitHub Codespaces and Copilot
 
 > View these instructions in [Spanish](/translations/es/README.md) or [Portuguese](/translations/pt-BR/README.md)
